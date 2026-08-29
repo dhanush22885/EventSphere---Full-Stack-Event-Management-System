@@ -10,13 +10,13 @@ The application is built with a modern React.js + FastAPI + PostgreSQL architect
 
 🔗 Live Application: (https://event-sphere-svwh.vercel.app/)
 
-![Login](images/login.png)
+![Login](images/Screenshot 2026-08-29 120739.png)
 
 
-![Create Event](images/login.png)
+![Create Event](images/Screenshot 2026-08-29 120258.png)
 
 
-![Dashboard](images/login.png)
+![Dashboard](images/Screenshot 2026-08-29 120700.png)
 
 
 ✨ Key Features
